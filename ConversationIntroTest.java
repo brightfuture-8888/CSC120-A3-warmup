@@ -8,7 +8,7 @@ public class ConversationIntroTest {
 	public void Example_A() {
 		ConversationIntro ci = new ConversationIntro();
 		assertEquals("plusOne", 6, ci.plusOne(5));
-    System.out.println("Passed plusOne test.");
+    System.out.println("Passed plusOne test."); 
 	}
 	
 	@Test
